@@ -5,6 +5,7 @@
   "author": "Microsoft Corp.",
   "license": "MIT",
   "dependencies": {
+    "promise": "^7.1.1",
     "async": "^1.5.2",
     "base64url": "^1.0.6",
     "busboy": "^0.2.13",
